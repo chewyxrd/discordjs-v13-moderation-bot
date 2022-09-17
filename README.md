@@ -1,2 +1,2 @@
-# discordjs-v13-moderation-bot
-10 star, 5 fork gelirse yayında!
+`npm i` yazarak botu başlatabilirsiniz.
+İyi kodlamalar <3
